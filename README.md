@@ -91,7 +91,7 @@ O projeto comparou **três abordagens principais** para classificação e detec�
 Assista à execução prática do projeto e aos resultados visuais do modelo YOLO:
 
 📺 **[Link do vídeo no YouTube – Não listado]**  
-👉 *[adicione aqui o link do vídeo quando o upload estiver concluído.](https://www.youtube.com/watch?v=78cHdVs-CEU)*
+👉 *(https://www.youtube.com/watch?v=78cHdVs-CEU)*
 
 ---
 
