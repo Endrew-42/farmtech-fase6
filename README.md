@@ -127,10 +127,3 @@ Assista à execução prática do projeto e aos resultados visuais do modelo YOL
 - [YOLOv5 GitHub Repository](https://github.com/ultralytics/yolov5)
 
 ---
-
-## 🏆 Créditos  
-
-Projeto desenvolvido por alunos do curso de **Inteligência Artificial da FIAP** – Fase 6 (2025).  
-Repositório oficial: [github.com/Endrew-42/farmtech-fase6](https://github.com/Endrew-42/farmtech-fase6)
-
----
